@@ -1,0 +1,16 @@
+{
+  "name": "auto-tweet-v2",
+  "version": "1.0.0",
+  "description": "Tweet action use v2 api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Doomspec",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "twitter-api-v2": "^1.9.1"
+  }
+}
