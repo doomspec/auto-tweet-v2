@@ -10,7 +10,7 @@ outputs:
     description: 'Response JSON'
 runs:
   using: 'node16'
-  main: 'dist/index.js'
+  main: 'index.js'
 branding:
   icon: 'edit'
   color: 'blue'
